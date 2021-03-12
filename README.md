@@ -1,45 +1,49 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+# Tech Cloud V2
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## Site Image
 
-## Gitpod Reminders
+Welcome to Tech Cloud
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Tech Cloud is a fully responsive, custom full stack-website, designed and built according to the wishes and needs of the users.
 
-`python3 -m http.server`
+It allows all users to purchase products, subscribe to the newsletter and access the blog,
+allows registered users to post and like the posts of other users, 
+while giving the business owner complete control over the content of the site and advertising and promoting a particular product.
 
-A blue button should appear to click: *Make Public*,
+## Website Purpose:
 
-Another blue button should appear to click: *Open Browser*.
+Tech Cloud is an online web store intended for small and medium-sized businesses that sells a group of products related with their purpose.
+With it's design, Tech Cloud tries to provide all its users with comfortable use with a set of features that will be explained in this document.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Website Purpose (updated):
 
-A blue button should appear to click: *Make Public*,
+The creation and design of the Tech Cloud e-commerce website was part of the
+ Education program for the Full Stack web developer at the Code Institute bootcamp.
+ Since I was not happy with the first version of this site I decided to rebuild it and
+ correct the mistakes I made during the first project when designing and organizing the
+ whole project.
 
-Another blue button should appear to click: *Open Browser*.
+ First Project can be found HERE
+ Live Site HERE
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The main reason for rebuilding this site is to learn and better understand
+ html, css, javascript, python and django.
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## UX
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## Two-side menu / Add Icon Settings
+## Light dark mode 
+## Try to keep original design / Colour/ rounded corners / shadows
+## Dark mode with glowing shadows 
+## Change layouts / display product grid / list
+## Blog rebuild / create administration system / different layout / image 
+## Newsletter rebuild / create custom email for newsletter /
+## Footer rebuild / add company information/ customer service / 
+## Create Custom Logo 
+## Remove Free Delivery banner
+## Search System / guide user / 
+## Breadcrumb
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
